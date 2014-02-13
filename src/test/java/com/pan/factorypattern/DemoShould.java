@@ -4,7 +4,7 @@ import static org.junit.Assert.assertEquals;
 
 import org.junit.Test;
 
-public class Json2XmlDemoShould {
+public class DemoShould {
 
 	@Test
 	public void changeValidInputAndTransformFromJsonToXml() {
